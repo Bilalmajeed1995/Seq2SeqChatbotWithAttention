@@ -7,3 +7,14 @@ Previously, chatbots have been developed using hand-written rules, making models
 #### Solution:
 
 To improve the seq2seq model and make it more robust, during training, an attention mechanism is included to gather context for each input word, allowing the decoder to have more information about each part of the input sentence. To generate the next word in the output, the context from the user input and the generated output so far is used to calculate the output with "attention". 
+
+#### Conclusion:
+
+During this project, we learnt that a seq2seq model with attention required lots of data and processing power to train. Despite the attention mechanism implemented, the lack of training and the subset of data selected did not allow the model to perform well. Furthermore, there was no hyperparameter tuning done to the model due to the hardware requirements. Our goal with this set up was to get the model to try produce "proper" sentence, which it was able to do to some extent. Also, it is nearly impossible to obtain a human-human like conversation with a chatbot due to the use of a movie lines dataset.
+
+#### Future Direction
+- Better hardware to use all available data and train for more epochs, or learn to progressively train the model
+- Obtain realistic training data, not movie lines
+- BERT embeddings weights used instead of generated own embeddings
+- Learn and attempt to implement hierarchical neural attention encoder
+- Test Transformer architecture chatbot and compare results

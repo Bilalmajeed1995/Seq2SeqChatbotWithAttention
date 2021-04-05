@@ -20,8 +20,7 @@ During this project, we learnt that a seq2seq model with attention required lots
 - Test Transformer architecture chatbot and compare results
 
 #### References:
-
-[1]: Dataset collect and information about Cornell movie dialog corpus dataset; Available: https://www.cs.cornell.edu/ cristian/CornellMovieDialogsCorpus.htm
-[2]: Seq2Seq AI Chatbot with Attention Mechanism; Abonia Sojasingarayar; [Paper] Available: https://arxiv.org/ftp/arxiv/papers/2006/2006.02767.pdf
-[3]: Sequence to Sequence Learning with Neural Networks; Ilya Sutskever, Oriol Vinyals, Quoc V. Le; [Paper] Available: https://arxiv.org/pdf/1409.3215v3.pdf
-[4]: Effective Approaches to Attention-based Neural Machine Translation; Minh-Thang Luong, Hieu Pham, Christopher D. Manning; [Paper] Available: https://arxiv.org/pdf/1508.04025.pdf
+- [1]: Dataset collect and information about Cornell movie dialog corpus dataset; Available: https://www.cs.cornell.edu/ cristian/CornellMovieDialogsCorpus.htm
+- [2]: Seq2Seq AI Chatbot with Attention Mechanism; Abonia Sojasingarayar; [Paper] Available: https://arxiv.org/ftp/arxiv/papers/2006/2006.02767.pdf
+- [3]: Sequence to Sequence Learning with Neural Networks; Ilya Sutskever, Oriol Vinyals, Quoc V. Le; [Paper] Available: https://arxiv.org/pdf/1409.3215v3.pdf
+- [4]: Effective Approaches to Attention-based Neural Machine Translation; Minh-Thang Luong, Hieu Pham, Christopher D. Manning; [Paper] Available: https://arxiv.org/pdf/1508.04025.pdf
